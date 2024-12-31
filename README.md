@@ -16,6 +16,9 @@ A simple counter application built with React and Redux, demonstrating state man
 - Jest
 - JavaScript ES6+
 
+## Author
+Gillian Ngugi
+
 ## Setup Instructions
 1. Clone the repository: https://github.com/gill-ngugi/react-redux-reducers.git
 2. Run `npm install` to install dependencies
@@ -27,9 +30,6 @@ A simple counter application built with React and Redux, demonstrating state man
 - `/src/reducers`: Redux reducers
 - `/src/components`: React components
 - `/src/tests`: Jest test files
-
-## Author
-Gillian Ngugi
 
 # Getting Started with Create React App
 
