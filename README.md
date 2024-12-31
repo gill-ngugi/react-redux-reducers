@@ -1,3 +1,36 @@
+# Redux Counter Application
+
+## Description
+A simple counter application built with React and Redux, demonstrating state management principles and testing with Jest.
+
+## Features
+- Increment counter
+- Decrement counter
+- Reset counter
+- State management with Redux
+- Unit tests with Jest
+
+## Technologies Used
+- React
+- Redux
+- Jest
+- JavaScript ES6+
+
+## Setup Instructions
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Run `npm start` to start the development server
+4. Run `npm test` to run the test suite
+
+## Project Structure
+- `/src/actions`: Redux actions
+- `/src/reducers`: Redux reducers
+- `/src/components`: React components
+- `/src/tests`: Jest test files
+
+## Author
+Gillian Ngugi
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
