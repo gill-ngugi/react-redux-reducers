@@ -23,7 +23,7 @@ test('renders counter buttons', () => {
   const incrementButton = screen.getByText(/increment/i);
   const decrementButton = screen.getByText(/decrement/i);
   const resetButton = screen.getByText(/reset/i);
-  
+
   expect(incrementButton).toBeInTheDocument();
   expect(decrementButton).toBeInTheDocument();
   expect(resetButton).toBeInTheDocument();
