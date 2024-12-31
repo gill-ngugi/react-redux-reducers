@@ -17,7 +17,7 @@ A simple counter application built with React and Redux, demonstrating state man
 - JavaScript ES6+
 
 ## Setup Instructions
-1. Clone the repository
+1. Clone the repository: https://github.com/gill-ngugi/react-redux-reducers.git
 2. Run `npm install` to install dependencies
 3. Run `npm start` to start the development server
 4. Run `npm test` to run the test suite
